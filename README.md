@@ -1,0 +1,2 @@
+This project analyzes consumer purchase behavior in an online retail store using the Apriori algorithm. The Apriori model was employed to identify frequent itemsets and association rules, providing insights into product affinities and shopping patterns. By understanding which products are often purchased together, the model helps optimize marketing strategies, inventory management, and product placement, ultimately enhancing sales and customer experience.
+
